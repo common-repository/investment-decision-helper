@@ -1,0 +1,153 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: investment-decision\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/investment-decision-helper\n"
+"POT-Creation-Date: 2014-04-13 23:49:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-04-13 19:47-0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: investment-decision.php:49 investment-decision.php:132
+msgid "Please enter a valid coupon"
+msgstr "Por favor inserta un cupón válido"
+
+#: investment-decision.php:55 investment-decision.php:139
+msgid "Please enter a valid number of payments"
+msgstr "Por favor inserta un número de pagos válido"
+
+#: investment-decision.php:62 investment-decision.php:69
+#: investment-decision.php:76 investment-decision.php:147
+#: investment-decision.php:155 investment-decision.php:163
+msgid "Please enter a valid amount"
+msgstr "Por favor inserta una cantidad válida"
+
+#: investment-decision.php:92
+msgid "There was an error in the 1st Instrument"
+msgstr "Hubo un error en el 1er Instrumento"
+
+#: investment-decision.php:121
+msgid "Annual adjustment:"
+msgstr "Regímenes transformados en anuales"
+
+#: investment-decision.php:121
+msgid "RETURNS:"
+msgstr "RENDIMIENTOS:"
+
+#: investment-decision.php:121
+msgid "1nd Instrument:"
+msgstr ""
+
+#: investment-decision.php:180
+msgid "There was an error in the 2nd Instrument"
+msgstr "Hubo un error en el 1do Instrumento"
+
+#: investment-decision.php:209 investment-decision.php:302
+msgid "2nd Instrument:"
+msgstr "2do Instrumento:"
+
+#: investment-decision.php:301
+msgid "1st Instrument:"
+msgstr "1er Instrumento"
+
+#: investment-decision.php:303 investment-decision.php:305
+msgid "NPV"
+msgstr "VAN"
+
+#: investment-decision.php:304 investment-decision.php:305
+msgid "IRR"
+msgstr "TIR"
+
+#: investment-decision.php:340
+msgid "FIRST"
+msgstr "PRIMERO"
+
+#: investment-decision.php:343 investment-decision.php:395
+msgid "Starting Expenditure($)"
+msgstr "Gasto Inicial($)"
+
+#: investment-decision.php:349 investment-decision.php:401
+msgid "Coupon/Net-Income($)"
+msgstr "Cupón/Ingreso Neto($)"
+
+#: investment-decision.php:355 investment-decision.php:407
+msgid "Nº of Payments to be Received"
+msgstr "Nº de Pagos a Recibir"
+
+#: investment-decision.php:361 investment-decision.php:413
+msgid "Amortization(%)"
+msgstr "Amortización(%)"
+
+#: investment-decision.php:361 investment-decision.php:367
+#: investment-decision.php:413 investment-decision.php:419
+msgid "Default"
+msgstr "Por defecto"
+
+#: investment-decision.php:361 investment-decision.php:413
+msgid "Use \"100\" for Bonds"
+msgstr "Usa \"100\" para Bonos"
+
+#: investment-decision.php:367 investment-decision.php:419
+msgid "Market Price(%)"
+msgstr "Precio de Mercado(%)"
+
+#: investment-decision.php:374 investment-decision.php:426
+msgid "Frequency"
+msgstr "Período"
+
+#: investment-decision.php:376 investment-decision.php:428
+msgid "Annual"
+msgstr "Anual"
+
+#: investment-decision.php:377 investment-decision.php:429
+msgid "Biannual"
+msgstr "Semestral"
+
+#: investment-decision.php:378 investment-decision.php:430
+msgid "Quarterly"
+msgstr "Trimestral"
+
+#: investment-decision.php:379 investment-decision.php:431
+msgid "Monthly"
+msgstr "Mensual"
+
+#: investment-decision.php:382 investment-decision.php:434
+msgid "Required"
+msgstr "Obligatorio"
+
+#: investment-decision.php:383 investment-decision.php:435
+msgid "OR"
+msgstr "O"
+
+#: investment-decision.php:385 investment-decision.php:437
+msgid "Internal Rate of Return(%)"
+msgstr "Tasa Interna de Retorno(%)"
+
+#: investment-decision.php:389 investment-decision.php:441
+msgid "Adding manual IRR will ignore previous cells"
+msgstr ""
+"Si añades la TIR manualmente no se tomarán en cuenta las celdas anteriores"
+
+#: investment-decision.php:392
+msgid "SECOND"
+msgstr "SEGUNDO"
+
+#: investment-decision.php:444
+msgid "Submit"
+msgstr "Comparar"
+
+#: investment-decision.php:469
+msgid "Investment Decision Helper"
+msgstr "Ayudante de Decisiones de Inversión"
+
+#: investment-decision.php:501
+msgid "Title:"
+msgstr "Título:"

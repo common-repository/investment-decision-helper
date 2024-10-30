@@ -1,0 +1,7 @@
+.idh_calculator { margin: 0 auto; max-width: 360px;}
+.idh_calculator div { margin: 0 0 5px; max-width: 360px; }
+.idh_calculator div.separator { text-align: center; margin: 5px 0 15px; border-bottom: 1px solid #414141; }
+.idh_calculator div.separator div { margin: 0; display: inline-block; background-color: #414141; padding: 1px 12px; position: relative; top: 10px; text-align: center; color:#fff; }
+.idh_calculator div.anp { border: 1px solid #414141; padding: 5px;}
+.idh_calculator div.interno { padding: 5px; max-height: 150px; overflow-y: scroll;}
+.idh_calculator input { width: 100%; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; }
